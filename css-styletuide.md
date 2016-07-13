@@ -184,4 +184,6 @@ a.js-scroll
   img.js-hovImg
 ```
 
+javascriptで操作する際の目印として使用。基本的にスタイルを当てることはない（はず）。
+
 SMACSSには存在しないが独自に追加。
